@@ -1,6 +1,6 @@
 ## Project Summary
 
-This project demonstrates the Business Analysis process for improving a university student registration system.
+This project demonstrates the Business Analysis process for improving a university student registration system and an online loan application.
 
 The project covers:
 
